@@ -1,1 +1,1 @@
-# Flood-severity-assessment-using-DistilBERT-and-NER
+# Disaster management using Machine Learning
