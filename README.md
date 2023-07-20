@@ -8,7 +8,7 @@ Natural calamities are ineluctable and had caused severe damage to both life and
 
 ## MISP Conference 2022 – Springer
 Presented our work on MISP conference 2022 under the name “Flood Severity assessment using DistilBERT and NER”. Our work was published in a book named: “Machine Learning and Computational Intelligence Techniques for Data Engineering” in Springer Nature.
-https://link.springer.com/chapter/10.1007/978-981-99-0047-3_34
+
 
 ## Contributed by
 <pre>Gokul Raj S N           Lingeshwaran R</pre>
