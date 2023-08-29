@@ -12,5 +12,4 @@ https://link.springer.com/chapter/10.1007/978-981-99-0047-3_34
 
 
 ## Contributed by
-<pre>Gokul Raj S N           Lingeshwaran R</pre>
-<pre>Silesh A K</pre>
+<pre>Gokul Raj S N           Lingeshwaran R           Silesh A K</pre>
